@@ -1,0 +1,27 @@
+You can use any of the following options based on the requirements.
+-------------------------------------------------
+Scanner class
+
+Scanner scan = new Scanner(System.in);
+String s = scan.next();
+int i = scan.nextInt();
+-------------------------------------------------
+BufferedReader and InputStreamReader classes
+
+BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+String s = br.readLine();
+int i = Integer.parseInt(br.readLine());
+-------------------------------------------------
+DataInputStream class
+
+DataInputStream dis = new DataInputStream(System.in);
+int i = dis.readInt();
+
+The readLine method from the DataInputStream class has been deprecated. To get String value, you should use the previous solution with BufferedReader
+Console class
+-------------------------------------------------
+Console console = System.console();
+String s = console.readLine();
+int i = Integer.parseInt(console.readLine());
+
+Apparently, this method does not work well in some IDEs.

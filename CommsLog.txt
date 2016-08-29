@@ -1,0 +1,83 @@
+Executing: Skype.exe Already running
+Executing: ts3client_win64.exe Already running
+Executing: Steam.exe Already running
+Executing: Battle.net.exe Already running
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          4 K
+System                           4 Services                   0     18.396 K
+smss.exe                       348 Services                   0        976 K
+csrss.exe                      508 Services                   0      3.824 K
+wininit.exe                    620 Services                   0      4.536 K
+csrss.exe                      628 Console                    1     10.968 K
+services.exe                   692 Services                   0      6.724 K
+lsass.exe                      708 Services                   0     17.196 K
+svchost.exe                    796 Services                   0     20.012 K
+winlogon.exe                   848 Console                    1      8.768 K
+svchost.exe                    908 Services                   0      9.228 K
+svchost.exe                   1020 Services                   0     27.292 K
+dwm.exe                         92 Console                    1     40.644 K
+svchost.exe                    308 Services                   0     31.256 K
+svchost.exe                    480 Services                   0     40.360 K
+svchost.exe                    768 Services                   0     13.324 K
+ekrn.exe                       984 Services                   0    169.944 K
+svchost.exe                   1172 Services                   0     25.156 K
+atiesrxx.exe                  1204 Services                   0      4.852 K
+atieclxx.exe                  1300 Console                    1      8.716 K
+svchost.exe                   1356 Services                   0     28.148 K
+svchost.exe                   1536 Services                   0     17.820 K
+spoolsv.exe                   1672 Services                   0     17.328 K
+OfficeClickToRun.exe          1908 Services                   0     52.124 K
+svchost.exe                   2040 Services                   0     16.728 K
+svchost.exe                   1504 Services                   0      7.956 K
+TeamViewer_Service.exe        1864 Services                   0     15.608 K
+dasHost.exe                   2504 Services                   0     16.408 K
+svchost.exe                   2756 Services                   0      5.988 K
+svchost.exe                   2820 Services                   0     15.876 K
+sihost.exe                    3216 Console                    1     20.964 K
+taskhostw.exe                 3240 Console                    1     14.848 K
+explorer.exe                  3576 Console                    1    126.044 K
+RuntimeBroker.exe             3744 Console                    1     38.460 K
+ShellExperienceHost.exe       3968 Console                    1     55.528 K
+SearchIndexer.exe             3472 Services                   0     42.840 K
+SearchUI.exe                  3380 Console                    1     87.816 K
+egui.exe                      5024 Console                    1     35.468 K
+dllhost.exe                   3460 Services                   0      8.484 K
+IAStorDataMgrSvc.exe          5512 Services                   0     45.424 K
+svchost.exe                   5548 Console                    1     20.096 K
+ApplicationFrameHost.exe      2980 Console                    1     26.884 K
+Calculator.exe                2880 Console                    1     34.420 K
+Microsoft.Photos.exe          1944 Console                    1     47.916 K
+SystemSettings.exe            5232 Console                    1     36.352 K
+firefox.exe                    532 Console                    1    728.472 K
+audiodg.exe                   2696 Services                   0     22.512 K
+WmiPrvSE.exe                  5792 Services                   0     13.032 K
+cmd.exe                       5520 Console                    1      2.364 K
+conhost.exe                   4292 Console                    1      7.772 K
+Skype.exe                     1128 Console                    1    135.136 K
+cmd.exe                       3860 Console                    1     10.164 K
+conhost.exe                   1780 Console                    1      7.808 K
+ts3client_win64.exe           4672 Console                    1     69.840 K
+cmd.exe                       6080 Console                    1      2.400 K
+conhost.exe                   5468 Console                    1      7.784 K
+Steam.exe                     4576 Console                    1     85.748 K
+fontdrvhost.exe                904 Console                    1      3.080 K
+steamwebhelper.exe            5488 Console                    1     60.164 K
+SteamService.exe              3320 Services                   0      9.928 K
+steamwebhelper.exe            6240 Console                    1    104.888 K
+Agent.exe                     1148 Console                    1     20.000 K
+conhost.exe                   2420 Console                    1      9.552 K
+Battle.net.exe                5980 Console                    1    160.372 K
+Battle.net Helper.exe          512 Console                    1     56.728 K
+dllhost.exe                   3036 Console                    1      4.968 K
+MusicBee.exe                  3552 Console                    1     92.340 K
+eclipse.exe                   1440 Console                    1    677.060 K
+SearchProtocolHost.exe        5168 Services                   0     11.688 K
+Battle.net Helper.exe         3336 Console                    1     94.388 K
+notepad++.exe                 7140 Console                    1     17.608 K
+javaw.exe                     5636 Console                    1     19.260 K
+SearchFilterHost.exe          2764 Services                   0      6.604 K
+tasklist.exe                  1724 Console                    1      6.996 K
+conhost.exe                   7052 Console                    1      9.156 K
+
